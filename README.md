@@ -393,24 +393,6 @@ git push origin feature/NewFeature
 
 ---
 
-# 🔗 Repository Links
-
-### 📂 GitHub Repository
-
-https://github.com/kanza-12/Smart_Driving_Alert_System
-
-### 🍴 Fork Repository
-
-https://github.com/kanza-12/Smart_Driving_Alert_System/fork
-
-### 🐞 Report an Issue
-
-https://github.com/kanza-12/Smart_Driving_Alert_System/issues
-
-### ✨ Request a Feature
-
-https://github.com/kanza-12/Smart_Driving_Alert_System/issues/new
-
 ### 📥 Clone Repository
 
 ```bash
