@@ -33,7 +33,7 @@ an LCD, and streams status updates over Bluetooth to a paired phone.
 | HC-05                    | Bluetooth communication      |
 | 16x2 I2C LCD             | On-board status display      |
 
-See [`docs/wiring.md`](docs/wiring.md) for the full pin-out table.
+See [`wiring.md`](wiring.md) for the full pin-out table.
 
 ## Project Structure
 
